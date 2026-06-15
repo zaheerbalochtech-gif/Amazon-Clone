@@ -1,1 +1,2 @@
 # Amazon-Clone
+A fully responsive front-end clone of Amazon's e-commerce website, built using only HTML5 and CSS3. This project replicates the core UI components of Amazon, including a dynamic navigation bar, product grid layout, hero section, and multi-level footer. The design is fully responsive across all device sizes (mobile, tablet, desktop) and includes interactive hover effects, product cards with real images, and demo JavaScript interactions for cart and sign-in features.
